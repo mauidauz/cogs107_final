@@ -1,0 +1,1 @@
+#This final was made with the help of ChatGPT and both the data from sdt_ddm.py and my previous notes on signal detection theory from Cogs 106 (winter quarter). 
